@@ -1,0 +1,10 @@
+D:\DHDY\GIT\HUB\Winforms\EFCRUD\Model\bin\Debug\Model.dll.config
+D:\DHDY\GIT\HUB\Winforms\EFCRUD\Model\bin\Debug\Model.dll
+D:\DHDY\GIT\HUB\Winforms\EFCRUD\Model\bin\Debug\Model.pdb
+D:\DHDY\GIT\HUB\Winforms\EFCRUD\Model\bin\Debug\EntityFramework.dll
+D:\DHDY\GIT\HUB\Winforms\EFCRUD\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\DHDY\GIT\HUB\Winforms\EFCRUD\Model\bin\Debug\EntityFramework.xml
+D:\DHDY\GIT\HUB\Winforms\EFCRUD\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\DHDY\GIT\HUB\Winforms\EFCRUD\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\DHDY\GIT\HUB\Winforms\EFCRUD\Model\obj\Debug\Model.dll
+D:\DHDY\GIT\HUB\Winforms\EFCRUD\Model\obj\Debug\Model.pdb
